@@ -190,7 +190,8 @@
 		</executions>
 	  </plugin>
 
-      <!-- Version image generation -->
+      <!--
+      
       <plugin>
         <groupId>com.bergerkiller</groupId>
         <artifactId>imagegenerator-maven-plugin</artifactId>
@@ -282,6 +283,7 @@
           </execution>
         </executions>
       </plugin>
+      -->
  
 	  <!-- Clean up (this is to make testing easier) -->
 	  <plugin>
